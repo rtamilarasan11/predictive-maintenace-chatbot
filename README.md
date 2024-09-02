@@ -16,3 +16,5 @@ by runnong app.py chatbot can be accessed.
 for getting alert message to the user we have used twilio
 which sends alert to the user phone in normal message application
 which is convenient as other messaging platform uses internet for transmitting message but twilio doesn't require any internet it sends message through normal network.
+#chatbot interface
+![Alt text]((https://github.com/rtamilarasan11/predictive-maintenace-chatbot/blob/4c53234ee38db070d36904c1e8024faa354c9315/Screenshot%202024-09-02%20232058.png))
